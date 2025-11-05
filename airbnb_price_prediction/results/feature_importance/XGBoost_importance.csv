@@ -1,0 +1,100 @@
+feature,importance
+property_type_group_Room in hotel,0.104401454
+bedrooms,0.09054542
+neighbourhood_cleansed_ELEVENTH WARD,0.08714941
+neighbourhood_cleansed_TENTH WARD,0.046515483
+accommodates,0.04204953
+private_room,0.040226847
+location_cluster_6,0.036418784
+location_cluster_3,0.03360571
+has_hot_tub,0.028634341
+entire_home,0.02552569
+has_heating,0.025188433
+beds,0.023013439
+neigh_price_mean,0.021989604
+property_type_group_Entire vacation home,0.021156188
+bathrooms_count,0.02056234
+property_type_group_Other,0.015495345
+neigh_price_std,0.0154261235
+location_cluster_1,0.0149489725
+description_word_count,0.014903767
+neighbourhood_cleansed_SIXTH WARD,0.014352653
+neighbourhood_cleansed_FIRST WARD,0.013565144
+property_type_group_Private room in rental unit,0.013017581
+property_type_group_Entire home,0.012199472
+location_cluster_15,0.012129048
+host_identity_verified,0.01210388
+location_cluster_10,0.011054107
+location_cluster_17,0.01071536
+host_days,0.009562113
+neigh_price_median,0.008671128
+neighbourhood_cleansed_THIRTEENTH WARD,0.0076293666
+host_is_superhost,0.0068599707
+days_since_last_review,0.006785513
+image_quality_score,0.0067286
+distance_to_center,0.006663159
+location_cluster_16,0.006548465
+number_of_reviews_ltm,0.006318556
+recent_reviews_count,0.006253722
+instant_bookable,0.00623326
+review_scores_location,0.0062016947
+review_scores_accuracy,0.0055391816
+location_cluster_12,0.0051949015
+location_cluster_9,0.005190541
+neighbourhood_cleansed_SECOND WARD,0.0049898913
+description_sentiment,0.004489386
+budget_count,0.0044857166
+luxury_count,0.0044361567
+host_listings_count,0.0043745385
+review_scores_communication,0.0042150808
+amenities_count,0.003489454
+location_cluster_2,0.0032827023
+neighbourhood_cleansed_SEVENTH WARD,0.0031363226
+minimum_nights,0.0029236781
+description_length,0.0027729464
+maximum_nights,0.0027572776
+availability_365,0.0026783934
+location_cluster_11,0.0024910944
+host_total_listings_count,0.0024821572
+neighbourhood_cleansed_FIFTEENTH WARD,0.0024528073
+property_type_group_Entire rental unit,0.0023550345
+has_washer,0.0022733219
+review_scores_checkin,0.0022398813
+total_reviews,0.0021660847
+review_scores_value,0.0020290983
+number_of_reviews,0.002002517
+host_has_profile_pic,0.0019850882
+property_type_group_Private room in home,0.001905226
+has_parking,0.0017793529
+neighbourhood_cleansed_TWELFTH WARD,0.0015344602
+location_cluster_4,0.0015031756
+review_scores_cleanliness,0.0014883209
+number_of_reviews_l30d,0.0014108972
+location_cluster_14,0.0013692876
+neighbourhood_cleansed_NINTH WARD,0.0013345272
+property_type_group_Private room in guest suite,0.0012873798
+has_balcony,0.0011139861
+review_scores_rating,0.0010647384
+has_tv,0.0009833584
+property_type_group_Entire townhouse,0.0009142968
+has_pool,0.00089752016
+has_gym,0.00074590056
+has_kitchen,0.0006464186
+location_cluster_13,0.00055512966
+location_cluster_19,0.00048726748
+neighbourhood_cleansed_FOURTEENTH WARD,0.00041599257
+location_cluster_5,0.00028901885
+has_air_conditioning,0.0002556273
+neighbourhood_cleansed_THIRD WARD,0.000105133025
+location_cluster_18,5.657585e-05
+has_dryer,5.2824475e-05
+has_availability,1.8906836e-05
+property_type_group_Entire loft,1.4732644e-06
+has_elevator,2.3910007e-07
+availability_rate,0.0
+days_available,0.0
+has_wifi,0.0
+neighbourhood_cleansed_FIFTH WARD,0.0
+neighbourhood_cleansed_FOURTH WARD,0.0
+location_cluster_8,0.0
+location_cluster_7,0.0

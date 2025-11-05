@@ -1,0 +1,100 @@
+feature,importance
+location_cluster_3,148.57991465822676
+location_cluster_7,124.92823284986119
+location_cluster_18,120.10454265991237
+location_cluster_1,110.5306982882947
+neighbourhood_cleansed_FIFTEENTH WARD,80.0741970611844
+location_cluster_15,73.95624622858303
+location_cluster_11,72.7777914513932
+location_cluster_17,64.02533260148084
+neighbourhood_cleansed_TWELFTH WARD,63.711197409212346
+property_type_group_Room in hotel,59.91941368350288
+location_cluster_9,54.41176017815212
+location_cluster_10,50.910872693667116
+location_cluster_13,50.141251015921426
+location_cluster_14,47.94831678478027
+has_wifi,47.60924183621774
+location_cluster_5,47.398602707808806
+location_cluster_16,45.98438795330351
+location_cluster_4,41.30269377760625
+location_cluster_8,39.590337629332424
+property_type_group_Other,35.98701487659291
+host_has_profile_pic,35.947825784959505
+neighbourhood_cleansed_NINTH WARD,35.7797547605345
+property_type_group_Entire vacation home,35.34522013683013
+location_cluster_19,34.112771989678436
+neighbourhood_cleansed_FIRST WARD,33.9613211311966
+property_type_group_Entire loft,33.866388101753024
+location_cluster_2,33.57914245518268
+has_hot_tub,32.66371612418129
+neighbourhood_cleansed_FOURTH WARD,31.271640183732202
+location_cluster_12,30.626078691303512
+accommodates,27.102919364206432
+location_cluster_6,25.31178379139625
+entire_home,24.427461105625987
+private_room,24.427461105622093
+property_type_group_Private room in guest suite,24.327549556553368
+neighbourhood_cleansed_TENTH WARD,23.98746109931175
+neighbourhood_cleansed_THIRTEENTH WARD,23.489653606438356
+has_pool,23.442088186699756
+description_word_count,23.068984759963243
+description_length,22.7016050199531
+property_type_group_Entire townhouse,20.522995006192055
+distance_to_center,20.515020327001462
+neighbourhood_cleansed_FOURTEENTH WARD,20.30666181039851
+neigh_price_median,19.749405932039007
+host_listings_count,19.548641087928072
+review_scores_rating,17.811407632416696
+host_total_listings_count,16.026529555311676
+property_type_group_Private room in home,15.399773303192116
+neighbourhood_cleansed_SEVENTH WARD,13.288357478448594
+review_scores_value,13.242562574021889
+has_dryer,11.986216498335638
+bathrooms_count,11.755785097734016
+property_type_group_Entire rental unit,11.688114325540672
+has_parking,11.425379953763752
+neigh_price_mean,10.671762513060331
+neighbourhood_cleansed_ELEVENTH WARD,9.15065259025998
+days_since_last_review,8.936387425980628
+image_quality_score,8.200083341828467
+has_elevator,7.905793689384252
+bedrooms,7.377281969794694
+has_tv,7.302079076505654
+review_scores_communication,7.084234521980749
+host_is_superhost,6.602273422672187
+neighbourhood_cleansed_THIRD WARD,6.501564541990197
+has_heating,6.164987158170753
+recent_reviews_count,5.928561575279614
+property_type_group_Entire home,5.856236254485989
+beds,5.8239372753861645
+number_of_reviews_l30d,5.3966306113117435
+host_days,5.083362721085031
+maximum_nights,5.02161847863421
+has_washer,4.885219304925128
+neighbourhood_cleansed_SECOND WARD,4.612509771176832
+number_of_reviews_ltm,4.3617632181099815
+review_scores_cleanliness,4.333739492701357
+property_type_group_Private room in rental unit,4.202385160674449
+has_kitchen,4.124667264051595
+review_scores_checkin,3.9545364555700684
+has_availability,3.2556597508601133
+budget_count,2.9239677767862027
+instant_bookable,2.894387317893333
+description_sentiment,2.8360205943410017
+neighbourhood_cleansed_SIXTH WARD,2.6240941582780586
+neigh_price_std,2.611382694744875
+neighbourhood_cleansed_FIFTH WARD,2.5508389865893593
+availability_365,2.4723924243038553
+luxury_count,2.310482919782526
+has_balcony,2.2072666106459717
+has_air_conditioning,2.0762829275380525
+review_scores_location,2.057739488184559
+review_scores_accuracy,1.5480613636265774
+amenities_count,1.3261436060600964
+has_gym,1.107494959835508
+host_identity_verified,0.5368869824167835
+minimum_nights,0.36525172511250403
+total_reviews,0.026519302546272883
+number_of_reviews,0.02651930253797019
+availability_rate,1.8101076193488552e-12
+days_available,1.5725198920790717e-12

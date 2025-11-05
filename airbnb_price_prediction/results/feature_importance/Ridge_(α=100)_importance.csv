@@ -1,0 +1,100 @@
+feature,importance
+accommodates,20.470924452827436
+bedrooms,9.576759734757783
+bathrooms_count,9.025894523664686
+beds,7.135120731475105
+property_type_group_Private room in home,5.740901605457135
+entire_home,5.612858997050177
+private_room,5.612858997050176
+days_since_last_review,5.45270544123743
+neigh_price_median,5.18358349048924
+neigh_price_mean,5.103322133574063
+property_type_group_Entire home,4.86621528594086
+property_type_group_Other,4.4485604367613805
+has_heating,4.42530604141291
+property_type_group_Private room in rental unit,3.9071505978888825
+image_quality_score,3.5321925314422407
+number_of_reviews_l30d,3.469368676119874
+review_scores_value,3.3361834952854506
+location_cluster_6,3.2585916239547834
+review_scores_cleanliness,3.0884289080961653
+location_cluster_15,3.071142390016902
+property_type_group_Room in hotel,3.032907986766993
+budget_count,3.0304410014983234
+location_cluster_1,2.8403781420049787
+host_has_profile_pic,2.753452681270344
+has_parking,2.6829911137347713
+review_scores_checkin,2.6118068457363517
+recent_reviews_count,2.5962363798764465
+neighbourhood_cleansed_SIXTH WARD,2.440769523381139
+description_word_count,2.426986559830897
+property_type_group_Entire rental unit,2.253522578741349
+review_scores_rating,2.0161569321617834
+distance_to_center,2.001306988998476
+review_scores_communication,1.9870481371501258
+review_scores_accuracy,1.8580174581993205
+description_length,1.821161842379005
+has_elevator,1.8054026100217724
+has_dryer,1.800362116618791
+neighbourhood_cleansed_TENTH WARD,1.7865123943145533
+host_identity_verified,1.753745689265669
+neighbourhood_cleansed_SEVENTH WARD,1.7482223299710111
+luxury_count,1.6457478930811384
+review_scores_location,1.5995292615824535
+location_cluster_9,1.570154979388951
+has_kitchen,1.548556477433741
+has_pool,1.5332226616814353
+location_cluster_3,1.4602269969249582
+minimum_nights,1.3886759826203987
+instant_bookable,1.3841415370257606
+amenities_count,1.2885781756690127
+neighbourhood_cleansed_NINTH WARD,1.2417632629035253
+location_cluster_14,1.22797447621923
+availability_365,1.1303525324717025
+property_type_group_Entire townhouse,1.0776480413497418
+location_cluster_19,1.073497278765533
+neighbourhood_cleansed_SECOND WARD,1.070256718317612
+location_cluster_4,0.9728383608768053
+neighbourhood_cleansed_FOURTH WARD,0.9379043588445785
+location_cluster_2,0.9260191457425159
+property_type_group_Entire vacation home,0.923380182453946
+location_cluster_10,0.8870674955220026
+number_of_reviews_ltm,0.801425568597307
+host_listings_count,0.7831043274179755
+description_sentiment,0.7791758981103204
+neighbourhood_cleansed_FOURTEENTH WARD,0.7733145150070773
+location_cluster_8,0.7572737786384193
+has_hot_tub,0.7468876230503784
+location_cluster_16,0.6894457038458082
+property_type_group_Entire loft,0.67774301120117
+neighbourhood_cleansed_FIRST WARD,0.6712558952722071
+neighbourhood_cleansed_FIFTH WARD,0.6690683955542047
+location_cluster_5,0.6556774418595442
+has_tv,0.6495429749485002
+neighbourhood_cleansed_THIRD WARD,0.5920530595516234
+has_wifi,0.5703161947122444
+host_total_listings_count,0.5139546545448535
+total_reviews,0.501928898614358
+number_of_reviews,0.501928898614358
+location_cluster_12,0.4864901563326889
+maximum_nights,0.4846804953763739
+location_cluster_18,0.4839397832415696
+has_air_conditioning,0.4391091048274006
+has_balcony,0.3092143820679496
+location_cluster_13,0.3033556310443698
+neighbourhood_cleansed_FIFTEENTH WARD,0.26788277872463334
+neighbourhood_cleansed_TWELFTH WARD,0.252173790654417
+location_cluster_7,0.2510757287265917
+location_cluster_11,0.2059062623574055
+neighbourhood_cleansed_THIRTEENTH WARD,0.20343235248224828
+property_type_group_Private room in guest suite,0.15321459353225
+has_availability,0.15095733713357443
+has_washer,0.11840161624096478
+neighbourhood_cleansed_ELEVENTH WARD,0.07947290761455067
+has_gym,0.06205735779116808
+neigh_price_std,0.05966722574847634
+host_is_superhost,0.05183800037200076
+location_cluster_17,0.03089924252731314
+host_days,0.025055633082279143
+days_available,0.0
+availability_rate,0.0

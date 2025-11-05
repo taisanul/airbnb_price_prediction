@@ -1,0 +1,100 @@
+feature,importance
+accommodates,131
+description_sentiment,120
+image_quality_score,100
+days_since_last_review,100
+availability_365,85
+host_days,82
+number_of_reviews,76
+description_word_count,75
+distance_to_center,74
+amenities_count,71
+description_length,71
+bathrooms_count,62
+review_scores_location,56
+number_of_reviews_ltm,50
+host_total_listings_count,47
+bedrooms,46
+review_scores_cleanliness,42
+neigh_price_std,40
+beds,39
+neigh_price_mean,37
+host_listings_count,36
+review_scores_rating,36
+review_scores_communication,35
+review_scores_value,35
+review_scores_checkin,34
+review_scores_accuracy,32
+recent_reviews_count,27
+property_type_group_Entire home,22
+minimum_nights,21
+neigh_price_median,18
+maximum_nights,14
+property_type_group_Entire rental unit,13
+entire_home,12
+total_reviews,12
+number_of_reviews_l30d,12
+has_heating,9
+neighbourhood_cleansed_SECOND WARD,7
+neighbourhood_cleansed_SIXTH WARD,7
+has_washer,6
+has_dryer,4
+location_cluster_5,4
+property_type_group_Private room in home,4
+host_is_superhost,3
+neighbourhood_cleansed_THIRTEENTH WARD,3
+location_cluster_4,3
+has_balcony,2
+has_air_conditioning,2
+has_parking,2
+host_identity_verified,2
+private_room,2
+luxury_count,1
+instant_bookable,1
+location_cluster_2,1
+availability_rate,0
+days_available,0
+budget_count,0
+has_tv,0
+has_pool,0
+has_gym,0
+property_type_group_Entire loft,0
+property_type_group_Entire townhouse,0
+has_kitchen,0
+has_wifi,0
+host_has_profile_pic,0
+has_elevator,0
+has_hot_tub,0
+has_availability,0
+neighbourhood_cleansed_ELEVENTH WARD,0
+property_type_group_Room in hotel,0
+property_type_group_Private room in rental unit,0
+property_type_group_Private room in guest suite,0
+property_type_group_Entire vacation home,0
+property_type_group_Other,0
+neighbourhood_cleansed_FOURTEENTH WARD,0
+neighbourhood_cleansed_FIFTEENTH WARD,0
+neighbourhood_cleansed_SEVENTH WARD,0
+neighbourhood_cleansed_NINTH WARD,0
+neighbourhood_cleansed_FOURTH WARD,0
+neighbourhood_cleansed_TENTH WARD,0
+neighbourhood_cleansed_THIRD WARD,0
+neighbourhood_cleansed_TWELFTH WARD,0
+neighbourhood_cleansed_FIRST WARD,0
+neighbourhood_cleansed_FIFTH WARD,0
+location_cluster_3,0
+location_cluster_1,0
+location_cluster_6,0
+location_cluster_7,0
+location_cluster_8,0
+location_cluster_9,0
+location_cluster_10,0
+location_cluster_11,0
+location_cluster_12,0
+location_cluster_13,0
+location_cluster_14,0
+location_cluster_15,0
+location_cluster_16,0
+location_cluster_17,0
+location_cluster_18,0
+location_cluster_19,0

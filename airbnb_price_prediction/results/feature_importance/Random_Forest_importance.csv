@@ -1,0 +1,100 @@
+feature,importance
+accommodates,0.14297599901476407
+bedrooms,0.13627253643851625
+beds,0.09374845521621601
+bathrooms_count,0.06176748109194231
+property_type_group_Entire home,0.040382611268182426
+neigh_price_mean,0.03416049915678792
+entire_home,0.032340393180876156
+distance_to_center,0.02951380238480235
+private_room,0.0286930329214062
+neigh_price_median,0.026255310604599333
+image_quality_score,0.021995107828265224
+amenities_count,0.02198369888987814
+description_length,0.017169239596053057
+host_days,0.016906985301620218
+neigh_price_std,0.016505791479068742
+description_word_count,0.015593539501490318
+location_cluster_6,0.015009680785635684
+description_sentiment,0.014992560485247166
+days_since_last_review,0.014654957689313838
+number_of_reviews,0.014217818539177142
+property_type_group_Private room in home,0.013498555241824178
+host_listings_count,0.011430548466526268
+review_scores_rating,0.011358579946701357
+availability_365,0.01126682076433818
+review_scores_location,0.010715204237766916
+property_type_group_Entire rental unit,0.010678421699905863
+number_of_reviews_ltm,0.009528856734823144
+recent_reviews_count,0.009383396100626502
+review_scores_accuracy,0.007808310709011965
+total_reviews,0.007668621823206319
+property_type_group_Private room in rental unit,0.007382033499956393
+minimum_nights,0.0073424268773946465
+review_scores_cleanliness,0.007019288795015372
+host_total_listings_count,0.006913290680724192
+number_of_reviews_l30d,0.0054396373309065936
+review_scores_communication,0.005411633620216687
+maximum_nights,0.005397699219253598
+neighbourhood_cleansed_FIFTEENTH WARD,0.004945266063186647
+review_scores_value,0.004303851025858699
+property_type_group_Other,0.004092629442176667
+review_scores_checkin,0.004040391870879231
+has_heating,0.003566287897198726
+has_balcony,0.003311926215745622
+host_identity_verified,0.0027391934195078586
+has_washer,0.0026894539133823833
+instant_bookable,0.002262785435358917
+property_type_group_Room in hotel,0.0017207969543313905
+has_air_conditioning,0.0015550064941937155
+luxury_count,0.0014800867229190578
+location_cluster_5,0.001457382459320235
+host_is_superhost,0.0014472796447690375
+has_hot_tub,0.0012135784831035963
+location_cluster_13,0.0011789268293156752
+has_dryer,0.00115309539770314
+property_type_group_Entire townhouse,0.0011519453515500878
+neighbourhood_cleansed_SECOND WARD,0.00112635776177646
+neighbourhood_cleansed_TENTH WARD,0.001114372247210318
+neighbourhood_cleansed_SIXTH WARD,0.001077223564297929
+host_has_profile_pic,0.0009403405223734262
+location_cluster_1,0.0009105504966958205
+location_cluster_9,0.0008909862121788111
+has_kitchen,0.0008298115824683391
+location_cluster_11,0.0006469204244676066
+has_pool,0.0005462086790581856
+neighbourhood_cleansed_ELEVENTH WARD,0.0005016242488254147
+has_elevator,0.0004492670852157396
+neighbourhood_cleansed_THIRTEENTH WARD,0.0004168538298386336
+budget_count,0.00039800947834031696
+has_parking,0.0003728906365225014
+location_cluster_19,0.000337444133424462
+has_gym,0.0003238121700844673
+has_tv,0.00030886980321684533
+location_cluster_4,0.00029033234686743367
+neighbourhood_cleansed_TWELFTH WARD,0.00021928730781159897
+location_cluster_2,0.00018988732047265955
+neighbourhood_cleansed_THIRD WARD,0.0001621801318464991
+location_cluster_18,0.0001596083405152987
+neighbourhood_cleansed_NINTH WARD,4.9349928568531655e-05
+location_cluster_16,1.8798302979224332e-05
+neighbourhood_cleansed_FOURTEENTH WARD,1.1869343977897262e-05
+location_cluster_12,1.1740891401862898e-05
+location_cluster_10,2.3522824553707416e-06
+neighbourhood_cleansed_FOURTH WARD,3.4018456685280406e-07
+days_available,0.0
+availability_rate,0.0
+property_type_group_Entire vacation home,0.0
+has_wifi,0.0
+has_availability,0.0
+property_type_group_Private room in guest suite,0.0
+property_type_group_Entire loft,0.0
+neighbourhood_cleansed_SEVENTH WARD,0.0
+location_cluster_3,0.0
+neighbourhood_cleansed_FIFTH WARD,0.0
+neighbourhood_cleansed_FIRST WARD,0.0
+location_cluster_7,0.0
+location_cluster_8,0.0
+location_cluster_14,0.0
+location_cluster_15,0.0
+location_cluster_17,0.0

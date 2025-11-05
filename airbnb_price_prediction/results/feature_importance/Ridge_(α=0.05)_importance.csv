@@ -1,0 +1,100 @@
+feature,importance
+location_cluster_3,118.53583652093941
+location_cluster_1,95.5460875899207
+location_cluster_18,92.2595213648972
+location_cluster_7,88.20739117526895
+neighbourhood_cleansed_FIFTEENTH WARD,68.0403663829247
+location_cluster_15,61.36166710699472
+location_cluster_11,59.808037560414725
+property_type_group_Room in hotel,57.577076976417885
+neighbourhood_cleansed_TWELFTH WARD,52.402399538318136
+location_cluster_9,49.73610939677542
+has_wifi,47.80114756116232
+location_cluster_17,44.39659473340188
+location_cluster_10,42.59344156112004
+location_cluster_6,41.451610788616094
+location_cluster_14,41.44771881385589
+location_cluster_13,38.923177712622646
+location_cluster_5,38.90308446906807
+location_cluster_8,37.70918309214074
+location_cluster_16,36.72842970972599
+host_has_profile_pic,35.59627213747636
+property_type_group_Entire loft,35.47511738448567
+property_type_group_Other,33.5421832491712
+has_hot_tub,33.07996762247839
+location_cluster_4,31.87840222652154
+neighbourhood_cleansed_NINTH WARD,30.783330557122824
+property_type_group_Entire vacation home,30.208809201785158
+neighbourhood_cleansed_FIRST WARD,27.58925522491807
+accommodates,27.10888471999406
+location_cluster_2,26.51324409686077
+neighbourhood_cleansed_FOURTH WARD,26.128634338848283
+location_cluster_12,25.23164910686013
+location_cluster_19,25.116997995433653
+has_pool,23.040245465318872
+entire_home,22.34001198066769
+private_room,22.34001198063934
+property_type_group_Entire townhouse,22.316490854125988
+neighbourhood_cleansed_THIRTEENTH WARD,20.852247397201637
+description_word_count,20.652252931554266
+neighbourhood_cleansed_TENTH WARD,20.55073040913868
+description_length,19.907944771510586
+neighbourhood_cleansed_FOURTEENTH WARD,19.638696904288803
+host_listings_count,18.95289004577599
+review_scores_rating,17.723363817483886
+neigh_price_median,17.543688186745793
+property_type_group_Private room in guest suite,16.667558282217346
+distance_to_center,16.17102961876057
+host_total_listings_count,15.179032832125438
+property_type_group_Entire rental unit,13.445700027772158
+review_scores_value,13.424937439544088
+has_dryer,13.210273954915651
+bathrooms_count,11.897871949007275
+has_parking,11.529264185734197
+neighbourhood_cleansed_SEVENTH WARD,10.579401842836772
+neigh_price_mean,9.175248771937216
+days_since_last_review,9.168412828004433
+property_type_group_Private room in home,8.540432506094703
+image_quality_score,8.041966664451538
+bedrooms,7.5152543668823775
+has_heating,7.372891792820034
+review_scores_communication,7.345804853208283
+has_elevator,7.3275357155676
+neighbourhood_cleansed_ELEVENTH WARD,6.7151666454980035
+has_tv,6.536237528124218
+host_is_superhost,6.530977336343129
+recent_reviews_count,6.235188724242996
+has_availability,6.100025793314314
+beds,5.601431261494301
+number_of_reviews_l30d,5.50769927046089
+has_washer,5.1128249866952205
+neighbourhood_cleansed_SECOND WARD,5.009922489179225
+host_days,4.904309347618646
+neighbourhood_cleansed_THIRD WARD,4.877522752868822
+maximum_nights,4.830674335222882
+number_of_reviews_ltm,4.45637199890567
+review_scores_checkin,4.2071106778476075
+review_scores_cleanliness,4.201186346391716
+neighbourhood_cleansed_SIXTH WARD,4.013521678371342
+has_kitchen,3.857669127353188
+property_type_group_Entire home,3.2678198891984858
+budget_count,3.2672481631233783
+description_sentiment,2.954600654676084
+instant_bookable,2.697093881088583
+review_scores_location,2.5483909051646116
+availability_365,2.30310141913208
+has_balcony,2.211247306006667
+neigh_price_std,2.1326155411217513
+luxury_count,2.1319452282696214
+has_air_conditioning,1.9034747559769676
+property_type_group_Private room in rental unit,1.8451547433288986
+has_gym,1.7663990070744304
+neighbourhood_cleansed_FIFTH WARD,1.4526896272569372
+amenities_count,1.35905988631537
+review_scores_accuracy,1.109371256879332
+host_identity_verified,0.7602817937420288
+minimum_nights,0.10780335168603489
+number_of_reviews,4.2121165879576065e-05
+total_reviews,4.212116485596505e-05
+days_available,0.0
+availability_rate,0.0
